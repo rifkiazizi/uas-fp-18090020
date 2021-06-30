@@ -3,16 +3,14 @@
 <div class="container">
     <div class="col-md-12 mt-5">
         <div class="card">
-        <div class="card-header bg-danger text-center">
+        <div class="card-header bg-dark text-center">
                 <strong>Aplikasi perekaman data HP </strong> 
                 </div>
             <br>
             <div class="text-center">
-                <h5>Selamat datang , <strong>{{ Auth::user()->name }}</strong></h5>
+                <h5>, <strong>{{ Auth::user()->name }}</strong></h5>
             </div>
-            <div class="text-center">
-                <h5>---------------------------------------------------------</h5>
-            </div>
+
 @section('content')
     <br>
     <div class="row">
