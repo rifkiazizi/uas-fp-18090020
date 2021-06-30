@@ -3,7 +3,7 @@
 <div class="container">
     <div class="col-md-12 mt-5">
         <div class="card">
-        <div class="card-header bg-dark text-center">
+        <div class="card-header bg-success text-center">
                 <strong>Aplikasi perekaman data HP </strong> 
                 </div>
             <br>
